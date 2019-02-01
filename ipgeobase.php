@@ -50,5 +50,5 @@ if(empty($_COOKIE['city']) || $_COOKIE['city']=="undefined") {
 	
 }
 //print_r($geo);
-return $geo[$info];
+return $geo[$info]; 
 ?>
